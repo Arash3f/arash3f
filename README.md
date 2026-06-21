@@ -12,66 +12,47 @@
 
 ## 👨‍💻 About Me
 
-Backend developer from **Shiraz, Iran** with 5+ years of professional experience. I focus on writing clean, maintainable, and well-tested code — always following solid software design principles.
+Backend developer from **Shiraz, Iran** with 5+ years of professional experience building scalable systems. I care about clean architecture, SOLID principles, and shipping code that's readable and reliable — not just functional.
 
-- 🏢 Currently working as **Back End Developer** at **Sazeh Peyvand**
-- 🌍 Previously worked with a **Canadian-based team** (ATM Markets, Ontario)
+- 🟢 Currently working as **Back End Developer** at **Sazeh Peyvand**
+- 🌍 Previously worked remotely with a **Canadian-based team** (ATM Markets, Ontario)
 - 🧱 Passionate about **Clean Architecture**, **SOLID principles**, and **scalable APIs**
 - 📚 Currently exploring **NestJS v12**, Vitest, and advanced system design patterns
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Stack
 
-<div align="center">
-
-### Backend & Languages
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Database & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Also worked with
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-</div>
+| Layer | Technologies |
+|-------|-------------|
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Data & Infra** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
 ## 💼 Experience
-<div align="center">
-| Period | Role | Company |
-|--------|------|---------|
-| 🟢 Jun 2026 – Present | Back End Developer | Sazeh Peyvand |
-| Apr 2025 – Aug 2025 | Full Stack Developer | DrillAI |
-| Dec 2023 – Jul 2024 | Software Engineer | ATM Markets · Ontario, Canada 🇨🇦 |
-| Jul 2023 – Dec 2023 | FastAPI Developer | icart |
-| Oct 2021 – Apr 2023 | Full Stack Developer | EvoTeam |
-| Sep 2020 – Oct 2021 | Django Developer | Bazroj Tekno |
-</div>
+
+```
+🟢 Jun 2026 – present   Back End Developer        Sazeh Peyvand · Shiraz
+   Apr – Aug 2025       Full Stack Developer       DrillAI · Tehran
+   Dec 2023 – Jul 2024  Software Engineer          ATM Markets · Ontario, Canada 🇨🇦
+   Jul – Dec 2023       FastAPI Developer          icart · Shiraz
+   Oct 2021 – Apr 2023  Full Stack Developer       EvoTeam · Shiraz
+   Sep 2020 – Oct 2021  Django Developer           Bazroj Tekno
+```
+
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
+## 📌 Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**nestJs-core-rest**](https://github.com/Arash3f/nestJs-core-rest) | `TypeScript` `NestJS` | Production-ready NestJS REST boilerplate |
 | [**nest-core-clean**](https://github.com/Arash3f/nest-core-clean) | `TypeScript` `NestJS` | Clean Architecture starter with SOLID principles |
-| [**family-tree-backend**](https://github.com/Arash3f/family-tree-backend) | `Python` `FastAPI` | Graph-based family tree API |
+| [**family-tree-backend**](https://github.com/Arash3f/family-tree-backend) | `Python` `FastAPI` `Neo4j` | Graph-based family tree API |
 | [**python-project-template**](https://github.com/Arash3f/python-project-template) | `Python` | Opinionated template for structured Python projects |
-
-</div>
 
 ---
 
@@ -88,8 +69,7 @@ Backend developer from **Shiraz, Iran** with 5+ years of professional experience
 
 ## 🎓 Education
 
-🎓 **Bachelor's Degree — Computer Software Engineering**
-Lorestan University · 2019 – 2024
+🎓 **BSc Computer Software Engineering** — Lorestan University · 2019 – 2024
 
 ---
 
