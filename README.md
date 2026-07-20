@@ -30,7 +30,7 @@ I am a backend developer from **Shiraz, Iran**, focused on maintainable services
 - Currently working as a **Back End Developer** at **Sazeh Peyvand**
 - Previously worked with **DrillAI**, **ATM Markets** (Ontario, Canada), **icart**, **EvoTeam**, and **Bazroj Tekno**
 - Interested in **Clean Architecture**, **SOLID**, API design, GraphQL, and scalable data access
-- Currently exploring **NestJS v12**, Vitest, and advanced system-design patterns
+- Building reusable open-source foundations for modern backend applications
 
 ## Engineering focus
 
@@ -127,12 +127,11 @@ Primary tools I use to build, test, document, and operate backend systems:
 | Oct 2021 – Apr 2023 | Full Stack Developer | EvoTeam · Shiraz |
 | Sep 2020 – Oct 2021 | Django Developer | Bazroj Tekno |
 
-## GitHub activity
+## Current focus
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arash3f&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Arash's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash3f&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
+- Refining production-ready NestJS core foundations
+- Designing the next FastAPI core projects
+- Exploring NestJS v12, Vitest, and advanced system-design patterns
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Arash3f&theme=tokyonight&hide_border=true" alt="GitHub streak" />
