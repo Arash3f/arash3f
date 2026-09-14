@@ -7,7 +7,7 @@
 I design backend systems that are easy to extend, safe to change, and reliable to run.
 
 <a href="https://github.com/Arash3f"><img src="https://img.shields.io/badge/GitHub-Arash3f-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/arashalfooneh"><img src="https://img.shields.io/badge/LinkedIn-Arash_Alfooneh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/arash-alfooneh"><img src="https://img.shields.io/badge/LinkedIn-Arash_Alfooneh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://t.me/arash3f"><img src="https://img.shields.io/badge/Telegram-@arash3f-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:arash.alfooneh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
